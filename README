@@ -1,0 +1,33 @@
+# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+
+This code is more backend looking to hold data, working with node and localhost. It provides a functional Express.js API integrated with Sequelize 
+whtch interacts with MySQL.  
+
+Installation
+-npm install
+-mysql -u root -p
+-source db/schema.sql;
+-node seeds/index.js
+-node server.js
+
+Test
+Testing can be done by running the code above.
+
+Contributing/Contact
+To submit bug reports, feature requests, or pull requests, please email me at jayceb.ham17@yahoo.com, or visit my GitHub page: https://github.com/JayceB17
+
+License
+MIT license
+
+Deployment
+https://github.com/JayceB17/ORM-Manager-HW13
+
+
+
+Table of Contents
+-Installation
+-Test
+-Contributing/Contact
+-License
+-Deployment
+-Table of Contents
